@@ -1,5 +1,5 @@
 # Coffe_classify
-Một phần của bài toán phân loại hạt cà phê từ video (đảm nhiệm phần phân loại hạt cà phê)  
+Một phần của bài toán phân loại hạt cà phê từ video 
 Đảm nhận phần nhận diện hạt cà phê chất lượng tốt hay tệ từ ảnh đầu vào một hạt cà phê  
 Sử dụng mô hình ConvNext đã được fine-tune trên tập dữ liệu hơn 2000 hạt cà phê Robusta Việt Nam  
 Link drive weight   
